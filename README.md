@@ -1,0 +1,2 @@
+# myIntrenshipproject
+small business website
